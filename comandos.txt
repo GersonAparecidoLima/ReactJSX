@@ -1,0 +1,27 @@
+#################################################################################################
+ git init                                                                                        
+ git add .                                                                                       
+ git commit -m "Projeto Criado"                                                                  
+ git branch -M main                                                                              
+ git remote add origin git@github.com:GersonAparecidoLima/ReactJSX.git                           
+ git push -u origin main                                                                         
+#################################################################################################
+ 1 criei                                                                                         
+ yarn create vite dscommerce-frontend --template react-ts                                        
+ 																								 
+ 2 entrei na pasta                                                                               
+ cd dscommerce-frontend/                                                                         
+ 																								 
+ 3 Baxando as dependencia definadas no arquivo package.json                                      
+ yarn                                                                                            
+ 																								 
+ 4 Gerando o projeto no package.json temos scripts => dev                                        
+ yarn dev                                                                                        
+ 																								 
+ 5 Levantou este servido                                                                         
+ Local:   http://localhost:5173/                                                                 
+ 																								 
+ 6 para intenromper a execursão do servido control + c                                           
+ 																								 
+#################################################################################################
+
